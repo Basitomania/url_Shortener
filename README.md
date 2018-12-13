@@ -30,7 +30,7 @@ PostMan
 **Request**
 
 ## Demo
-This https://mail.google.com/mail/u/0/#inbox/FMfcgxvzLrJVGvLnXkSfhCnlVLmBbJfp will return "http://localhost:8080/api/0b40b067"
+This https://github.com/d-rep/URL-Shortener/blob/master/url-shortener-domain/src/main/java/com/repaskys/domain/ShortUrl.java will return "http://localhost:8080/api/1b87385d"
    
 
 **Return** 
