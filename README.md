@@ -29,9 +29,11 @@ PostMan
 ## Example
 **Request**
 
+## Demo
+This https://mail.google.com/mail/u/0/#inbox/FMfcgxvzLrJVGvLnXkSfhCnlVLmBbJfp will return "http://localhost:8080/api/0b40b067"
    
 
-**Return** __shortened for example purpose__
+**Return** 
 ``` json
 {
     "code": "00",
