@@ -20,7 +20,8 @@ A JSON object containing the shortened url
 ## Errors
 All known errors cause the resource to return HTTP error code header together with a JSON array containing at least 'status' and 'error' keys describing the source of error.
 
-
+## Test Environment
+PostMan
 
 
 ***
@@ -33,11 +34,9 @@ All known errors cause the resource to return HTTP error code header together wi
 **Return** __shortened for example purpose__
 ``` json
 {
-  "code": "00",
+    "code": "00",
     "description": "Successfull",
     "errors": null,
     "shortUrl": "http://localhost:8080/api/0b40b067"
-    },
-    ]
-}
+    }
 ```
